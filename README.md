@@ -1,7 +1,7 @@
 # Object-detection-yolov3
 Implementation of yolov3 with tensorflow 2
 
-Mostly followed [this](https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow) notebook from kaggle. Implemented the load weight portion with tensorflow 2.
+Mostly followed [this](https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow) notebook from kaggle. Implemented the model using tensorflow 2 and keras
 
 Download the yolov3 weights [here](https://pjreddie.com/media/files/yolov3.weights)
 
